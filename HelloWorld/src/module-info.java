@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author basto
+ *
+ */
+module HelloWorld {
+}
